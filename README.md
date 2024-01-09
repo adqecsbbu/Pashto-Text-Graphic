@@ -9,3 +9,5 @@ Pipeline
 Checkpoint
 The data folder contains the tf record files (already created), if one wants to create such files, he/ she can use ”generate_tfrecord.py” script. The rest of the code can be found in “TextVsGraphicsPashto.ipynb”.
 Make sure that the path to checkpoints and tefrecord files is correctly mentioned in the config file located in the “pipeline” folder.
+
+Note:  The experiment was carried out on Google Colab, therefore, we recommend using the Google Colab, as the using of “TextVsGraphicsPashto.ipynb” file will be more convenient .
