@@ -12,4 +12,4 @@ Make sure that the path to checkpoints and tefrecord files is correctly mentione
 
 Note:  The experiment was carried out on Google Colab, therefore, we recommend using the Google Colab, as the using of “TextVsGraphicsPashto.ipynb” file will be more convenient .
 
-# DOI: 
+# CITE DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10569204.svg)](https://doi.org/10.5281/zenodo.10569204)
