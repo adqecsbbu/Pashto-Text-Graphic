@@ -11,3 +11,5 @@ The data folder contains the tf record files (already created), if one wants to 
 Make sure that the path to checkpoints and tefrecord files is correctly mentioned in the config file located in the “pipeline” folder.
 
 Note:  The experiment was carried out on Google Colab, therefore, we recommend using the Google Colab, as the using of “TextVsGraphicsPashto.ipynb” file will be more convenient .
+
+# DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
